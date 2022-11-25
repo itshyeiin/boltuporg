@@ -861,7 +861,7 @@ body.dark-theme{
   right: 0;
   margin: 15px;
   cursor: pointer;
-  opacity: 0.5;
+/*   opacity: 0.5; */
   transition: 0.3s ease;
   transition-property: opacity;
 }
