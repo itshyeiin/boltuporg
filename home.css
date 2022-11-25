@@ -827,7 +827,7 @@ body.dark-theme{
   border-radius: 20px;
   box-shadow: 0 5px 25px rgb(0 0 0 / 20%);
   transform: scale(0);
-  transition: 0.5s ease;
+  transition: 0.3s ease-in-out;
   transition-property: transform;
 }
 
